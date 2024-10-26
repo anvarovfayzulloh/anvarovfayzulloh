@@ -1,4 +1,4 @@
-[![wakatime](https://wakatime.com/badge/user/220f8840-84c8-423e-9bc9-49ddd511a19e.svg)](https://wakatime.com/@220f8840-84c8-423e-9bc9-49ddd511a19e)
+!https://wakatime.com/badge/user/220f8840-84c8-423e-9bc9-49ddd511a19e.svg!:https://wakatime.com/@220f8840-84c8-423e-9bc9-49ddd511a19e
 
 - 👋 Hi, I’m @anvarovfayzulloh
 - 👀 I’m interested in ...
