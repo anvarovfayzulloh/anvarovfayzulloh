@@ -1,4 +1,4 @@
-<a href="https://wakatime.com/@220f8840-84c8-423e-9bc9-49ddd511a19e"><img src="https://wakatime.com/badge/user/220f8840-84c8-423e-9bc9-49ddd511a19e.svg" alt="Total time coded since Sep 30 2024" /></a>
+[<a href="https://wakatime.com/@220f8840-84c8-423e-9bc9-49ddd511a19e"><img src="https://wakatime.com/badge/user/220f8840-84c8-423e-9bc9-49ddd511a19e.svg" alt="Total time coded since Sep 30 2024" /></a>](https://wakatime.com/badge/user/220f8840-84c8-423e-9bc9-49ddd511a19e.svg)
 
 - 👋 Hi, I’m @anvarovfayzulloh
 - 👀 I’m interested in ...
